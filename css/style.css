@@ -1,0 +1,25 @@
+.baran{
+   color: rgb(203, 203, 203);
+   text-align: center;
+}
+
+body{
+   font-style: italic;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   color:rgb(226, 226, 226);
+   background-color: rgb(41, 40, 40);
+}
+
+.problema{
+   text-align: center;
+   color: brown;
+}
+
+.rish{
+   text-align: center;
+   color: green;
+}
+
+.barsiik{
+   margin-right: 100%;
+}
